@@ -75,6 +75,32 @@
 
 <br />
 
+## 开放知识库
+
+我把一部分持续学习、实践和整理的过程放在公开知识库里。欢迎直接点进来，也欢迎带着问题一起交流。
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <sub>01 / AI</sub><br /><br />
+      <strong><a href="https://larkcommunity.feishu.cn/wiki/PZfvwUkWNizauUkMXXucGPKcnCe?from=from_copylink">个人 AI 开源知识库 ↗</a></strong><br />
+      持续整理 AI 工具、应用方法与真实实践。
+    </td>
+    <td width="33%" valign="top">
+      <sub>02 / OPENCLAW</sub><br /><br />
+      <strong><a href="https://my.feishu.cn/wiki/space/7615176398826654908?ccm_open_type=lark_wiki_spaceLink&amp;open_tab_from=wiki_home">OpenClaw 知识库 ↗</a></strong><br />
+      围绕 OpenClaw 的学习、经验与可复用资料。
+    </td>
+    <td width="33%" valign="top">
+      <sub>03 / AGENT SKILL</sub><br /><br />
+      <strong><a href="https://my.feishu.cn/wiki/space/7622175237550918866?ccm_open_type=lark_wiki_spaceLink&amp;open_tab_from=wiki_home">Agent Skill 知识库 ↗</a></strong><br />
+      记录 Agent Skill 的笔记、案例和方法。
+    </td>
+  </tr>
+</table>
+
+<br />
+
 ## 我相信的事
 
 信息整理不是把东西收得整齐，而是帮一个人重新获得判断力。内容表达也不是把话说得很响，而是让真正值得被听见的东西，找到它该去的地方。
