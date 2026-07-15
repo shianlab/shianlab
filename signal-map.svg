@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">From human signal to useful AI outcome</title>
+  <desc id="desc">An editorial map with four steps: human signal, knowledge, AI workflow, useful outcome.</desc>
+  <rect width="1200" height="420" rx="24" fill="#F7F5F0"/>
+  <path d="M125 210H1075" stroke="#D7D1C8" stroke-width="2" stroke-dasharray="7 11"/>
+  <path d="M300 210C358 128 436 128 500 210C567 292 641 292 700 210C760 128 840 128 900 210" stroke="#073A4A" stroke-width="3"/>
+  <path d="M316 187L300 210L326 215" stroke="#2769FF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="160" cy="210" r="57" fill="#073A4A"/>
+  <circle cx="160" cy="210" r="39" stroke="#F7F5F0" stroke-width="2"/>
+  <path d="M140 221C148 208 159 202 171 202C181 202 189 208 194 217" stroke="#F7F5F0" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="148" cy="185" r="5" fill="#FF8065"/>
+  <circle cx="177" cy="185" r="5" fill="#FF8065"/>
+  <circle cx="430" cy="210" r="57" fill="#FFFFFF" stroke="#073A4A" stroke-width="3"/>
+  <path d="M399 189H461M399 210H461M399 231H447" stroke="#073A4A" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="684" cy="210" r="57" fill="#2769FF"/>
+  <path d="M655 220L680 183L715 204L689 237L655 220Z" fill="#F7F5F0"/>
+  <path d="M680 183L689 237M655 220L715 204" stroke="#073A4A" stroke-width="2"/>
+  <circle cx="1040" cy="210" r="57" fill="#FF8065"/>
+  <path d="M1012 210L1032 230L1072 186" stroke="#073A4A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#073A4A" font-family="Arial, sans-serif" text-anchor="middle">
+    <text x="160" y="304" font-size="16" font-weight="700" letter-spacing="1.5">HUMAN SIGNAL</text>
+    <text x="430" y="304" font-size="16" font-weight="700" letter-spacing="1.5">KNOWLEDGE LAYER</text>
+    <text x="684" y="304" font-size="16" font-weight="700" letter-spacing="1.5">AI WORKFLOW</text>
+    <text x="1040" y="304" font-size="16" font-weight="700" letter-spacing="1.5">USEFUL OUTCOME</text>
+  </g>
+  <g fill="#6F6A63" font-family="Arial, sans-serif" text-anchor="middle">
+    <text x="160" y="332" font-size="14">notice what matters</text>
+    <text x="430" y="332" font-size="14">give it structure</text>
+    <text x="684" y="332" font-size="14">make it work</text>
+    <text x="1040" y="332" font-size="14">make it count</text>
+  </g>
+  <circle cx="574" cy="85" r="6" fill="#FF8065"/>
+  <circle cx="600" cy="69" r="4" fill="#2769FF"/>
+  <circle cx="625" cy="90" r="7" fill="#073A4A"/>
+  <path d="M574 85L600 69L625 90" stroke="#073A4A" stroke-width="2"/>
+</svg>
