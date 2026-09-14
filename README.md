@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:4F46E5,100:7C3AED&height=200&section=header&text=%E6%97%B6%E5%AE%89%20%C2%B7%20shian&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+<img width="100%" src="./assets/header.svg" alt="时安 · shian" />
 
 <div align="center">
 
@@ -110,14 +110,11 @@
 
 ---
 
+## GitHub 数据
+
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shianlab&show_icons=true&hide_border=true&count_private=true&theme=default&bg_color=00000000" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shianlab&layout=compact&hide_border=true&bg_color=00000000" />
-</a>
+<img width="520" src="./github-metrics.svg" alt="shianlab 的 GitHub 数据统计" />
 
 </div>
 
@@ -134,9 +131,10 @@
   <img src="https://img.shields.io/badge/GitHub-shianlab-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+<br /><br />
 <sub>常驻贵阳 · 周末不定期出没于北京 / 上海 / 杭州 · 欢迎 Coffee Chat ☕</sub><br />
 <sub>WeChat：shian_V ｜ 公众号：时安的AI实验室</sub>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4F46E5,100:2563EB&height=120&section=footer&animation=fadeIn" />
+<img width="100%" src="./assets/footer.svg" alt="Learn · Explore · Build · Repeat" />
