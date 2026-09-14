@@ -97,6 +97,12 @@
 
 ---
 
+## 数据与成果
+
+<img width="100%" src="./assets/stats.svg" alt="时安的数据与成果" />
+
+---
+
 ## 技术栈与工具
 
 <p>
@@ -107,16 +113,6 @@
   <img src="https://img.shields.io/badge/GEO-内容优化%20%7C%20AI搜索-D97706?style=for-the-badge" />
   <img src="https://img.shields.io/badge/内容传播-公众号%20%7C%20小红书%20%7C%20X-DB2777?style=for-the-badge" />
 </p>
-
----
-
-## GitHub 数据
-
-<div align="center">
-
-<img width="520" src="./github-metrics.svg" alt="shianlab 的 GitHub 数据统计" />
-
-</div>
 
 ---
 
