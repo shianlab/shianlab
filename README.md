@@ -105,13 +105,53 @@
 
 ## 技术栈与工具
 
+**AI 模型与平台**
+
 <p>
-  <img src="https://img.shields.io/badge/AI%20应用-LLM%20%7C%20Agent%20%7C%20Workflow-4F46E5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vibe%20Coding-TypeScript%20%7C%20HTML%20%7C%20Python-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Agent%20Skill-Skill%20%7C%20MCP%20%7C%20Automation-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/知识库-飞书%20%7C%20Obsidian%20%7C%20PKM-059669?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GEO-内容优化%20%7C%20AI搜索-D97706?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/内容传播-公众号%20%7C%20小红书%20%7C%20X-DB2777?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/%E8%B1%86%E5%8C%85-325AB4?style=for-the-badge&logo=bytedance&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kimi-000000?style=for-the-badge&logo=kimi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" />
+</p>
+
+**AI 编程 · Vibe Coding**
+
+<p>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trae-0E0E10?style=for-the-badge&logo=trae&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+</p>
+
+**Agent 与自动化**
+
+<p>
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agent%20Skill-4F46E5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+</p>
+
+**知识库与协作**
+
+<p>
+  <img src="https://img.shields.io/badge/%E9%A3%9E%E4%B9%A6-3370FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+**GEO 与内容增长**
+
+<p>
+  <img src="https://img.shields.io/badge/GEO%20%E5%A2%9E%E9%95%BF-D97706?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
+  <img src="https://img.shields.io/badge/%E5%B0%8F%E7%BA%A2%E4%B9%A6-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" />
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </p>
 
 ---
