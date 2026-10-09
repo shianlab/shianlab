@@ -8,6 +8,8 @@
 
 `00后` · `OPC` · `AI 应用开发者` · `INTJ`
 
+**时安数字科技工作室主理人**
+
 </div>
 
 ---
@@ -170,6 +172,9 @@
 <br /><br />
 <sub>常驻贵阳 · 周末不定期出没于北京 / 上海 / 杭州 · 欢迎 Coffee Chat ☕</sub><br />
 <sub>WeChat：shian_V ｜ 公众号：时安的AI实验室</sub>
+
+<br /><br />
+<sub>时安 @ <strong>时安数字科技工作室</strong></sub>
 
 </div>
 
